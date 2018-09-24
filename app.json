@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/store_details/store_details",
+    "pages/details/details",
+    "pages/mine/mine",
+    "pages/appointment/appointment",
+    "pages/index/index",
+    "pages/logs/logs"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F04844",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "#ffffff"
+  },
+  "tabBar": {
+    "color": "#cccccc",
+    "selectedColor": "#F04844",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "image/home0.png",
+        "selectedIconPath": "./image/home1.png"
+      },
+      {
+        "pagePath": "pages/appointment/appointment",
+        "text": "预约",
+        "iconPath": "image/yu0.png",
+        "selectedIconPath": "image/yu1.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "image/mine0.png",
+        "selectedIconPath": "image/mine1.png"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}

@@ -1,0 +1,35 @@
+.foot {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  height: 120rpx;
+  background-color: #fff;
+}
+.foot .item{
+   width:50%;
+   text-align: center;
+   display:flex;
+}
+.foot .item .iconfont{
+  font-size:50rpx;
+}
+.foot  .item-li{
+  flex: 1;
+  text-align: center;
+  padding:16rpx 0;
+  height:100%;
+}
+.foot  .item-li:last-child{
+  border-left:1rpx solid #f2f2f2;
+}
+.foot .item:last-child{
+  background-color:#F04844;
+  line-height: 120rpx;
+  text-align: center;
+  color:#ffffff;
+}
+.foot .item:last-child text{
+  width: 100%;
+  text-align: center;
+}

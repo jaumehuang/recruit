@@ -1,0 +1,31 @@
+/**index.wxss**/
+@import "../template/search/search.wxss";
+@import "../template/list/list.wxss";
+.main{
+  margin-top:218rpx;
+}
+.main .title{
+  text-align: center;
+  padding:24rpx 0;
+  position: relative;
+}
+.main .title::before{
+  display: block;
+  content: "";
+  height:1rpx;
+  width:100rpx;
+  position: absolute;
+  left:100rpx;
+  top:44rpx;
+  background-color:#F2F2F2;
+}
+.main .title::after{
+  display: block;
+  content: "";
+  height:1rpx;
+  width:100rpx;
+  position: absolute;
+  right:100rpx;
+  top:44rpx;
+  background-color:#F2F2F2;
+}

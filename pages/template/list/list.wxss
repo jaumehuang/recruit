@@ -1,0 +1,25 @@
+
+ .list .list-li{
+  padding:12rpx 24rpx;
+  border-bottom:1rpx solid #F2F2F2;
+}
+.list .list-li .clearfix{
+  margin-bottom:12rpx;
+}
+ .list .bottom-list .bottom-li{
+  margin-right:32rpx;
+  position: relative;
+}
+ .list .bottom-list .bottom-li::after{
+  display:block;
+  position:absolute;
+  top:8rpx;
+  content: "";
+  left:-18rpx;
+  height:24rpx;
+  width:1rpx;
+  background-color:#F2F2F2;
+}
+.list .bottom-list .bottom-li:first-child::after{
+  background-color:#ffffff;
+}

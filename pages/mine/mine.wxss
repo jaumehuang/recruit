@@ -1,0 +1,84 @@
+/* pages/mine/mine.wxss */
+page{
+  background-color:#F2F2F2;
+}
+.user{
+  background-color: #F04844;
+}
+.user .user-info{
+ text-align: center;
+ color:#ffffff;
+ padding-bottom:24rpx;
+ position: relative;
+ padding-top:24rpx;
+}
+.user-info image{
+  height:160rpx;
+  width:160rpx;
+  border-radius: 50%;
+}
+.tool{
+  position:absolute;
+  right:24rpx;
+  top:24rpx;
+}
+.tool image{
+  height:46rpx;
+  width:46rpx;
+}
+.list-item{
+  display: flex;
+  background-color: #ffffff;
+  border-bottom:1rpx solid #F2F2F2;
+  padding:12rpx 0;
+}
+.list-item .item{
+  flex: 1;
+  text-align: center;
+  border-right:1rpx solid #F2F2F2;
+}
+.list-item .item .item-p{
+  padding-bottom:10rpx;
+}
+.list-item .item .item-img{
+  margin-bottom:10rpx;
+}
+.list-item .item .item-img .iconfont {
+  font-size:60rpx;
+}
+.main-list{
+  margin-top:24rpx;
+}
+.main-list .list-item{
+  padding:0;
+}
+.main-list .item{
+  padding:24rpx 0;
+}
+.icon-ai-connection{
+  color:#68ACFD;
+}
+.icon-rencaizhongxin{
+  color:#F64F49;
+}
+.icon-lianjie{
+  color:#72B8F4;
+}
+.icon-shoucang1{
+  color:#F64F49;
+}
+.icon-xiaoxi1{
+  color:#61ADFF;
+}
+.icon-zhaoshanghezuo{
+  color:#FF6662;
+}
+.icon-xiaoxi{
+  color:#67ABFF;
+}
+.icon-iconhelp{
+  color:#FC6463
+}
+.icon-guanyuwomen{
+  color:#61ADFF;
+}

@@ -1,0 +1,42 @@
+<!--pages/details/details.wxml-->
+<import src="../template/list/list.wxml" />
+<import src="../template/foot/foot.wxml" />
+<view class="container">
+  <view class="info">
+    <view class="clearfix font-14 item">
+      <view class="fl">颠三倒四多所多所</view>
+      <view class="fr">全职</view>
+    </view>
+    <view class="font-14 item">
+      辅导辅导辅导
+    </view>
+    <view class="clearfix font-14 bottom-list c-666 item">
+      <view class="bottom-li fl">广州</view>
+      <view class="bottom-li fl">广州</view>
+      <view class="bottom-li fl">广州</view>
+    </view>
+    <view class="item clearfix location">
+      <view class="font-14 loction-title">分手大师颠三倒四多所多所第三方施工法规</view>
+    </view>
+  </view>
+  <view class="title font-16 c-666">职位描述</view>
+  <view class="work-info-list">
+    <view class="list-li">
+      <view class='work-title font-16'>岗位职责:</view>
+      <view class="item-list">
+        <view class="item-li c-666 font-14">dasa</view>
+      </view>
+    </view>
+    <view class="list-li">
+      <view class='work-title font-16'>岗位职责:</view>
+      <view class="item-list">
+        <view class="item-li c-666 font-14">dasa</view>
+      </view>
+    </view>
+  </view>
+  <view class="work-list">
+    <view class="title font-16 c-666">职位推荐</view>
+    <template is="list" />
+  </view>
+  <template is="foot" />
+</view>

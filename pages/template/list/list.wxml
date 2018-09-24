@@ -1,0 +1,38 @@
+<template name="list">
+    <view class="list">
+      <view class="list-li">
+        <view class="clearfix font-14">
+          <view class="fl c-333 ">美发店长</view>
+          <view class="fr c-red ">5000</view>
+        </view>
+        <view class="clearfix font-12">
+          <view class="fl c-666 ">美发店长颠三倒四多所多</view>
+        </view>
+        <view class="clearfix font-12 c-666">
+          <view class="fl bottom-list">
+            <view class="bottom-li fl">广州</view>
+            <view class="bottom-li fl">广州</view>
+            <view class="bottom-li fl">广州</view>
+          </view>
+          <view class="fr font-14">2018-12-1</view>
+        </view>
+      </view>
+      <view class="list-li">
+        <view class="clearfix font-14">
+          <view class="fl c-333 ">美发店长</view>
+          <view class="fr c-red ">5000</view>
+        </view>
+        <view class="clearfix font-12">
+          <view class="fl c-666 ">美发店长颠三倒四多所多</view>
+        </view>
+        <view class="clearfix font-12 c-666">
+          <view class="fl bottom-list">
+            <view class="bottom-li fl">广州</view>
+            <view class="bottom-li fl">广州</view>
+            <view class="bottom-li fl">广州</view>
+          </view>
+          <view class="fr font-14">2018-12-1</view>
+        </view>
+      </view>
+    </view>
+</template>

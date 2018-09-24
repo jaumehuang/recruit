@@ -1,0 +1,96 @@
+<!--pages/mine/mine.wxml-->
+<view class="container">
+  <view class="user">
+    <view class="user-info">
+      <image src="../../image/img.jpeg"></image>
+      <view class="font-14">颠三倒四</view>
+    </view>
+    <view class="tool">
+      <image src="../../image/tool.png"></image>
+    </view>
+  </view>
+  <view class="list-item font-14">
+    <view class="item">
+      <view class="c-red item-p">￥120</view>
+      <view class="c-333">账户余额</view>
+    </view>
+    <view class="item">
+      <view class="c-red item-p">120</view>
+      <view class="c-333">体现记录</view>
+    </view>
+    <view class="item">
+      <view class="c-red item-p">120</view>
+      <view class="c-333">我的订单</view>
+    </view>
+  </view>
+  <view class="main-list">
+    <view class="list-item">
+      <view class="item">
+        <view class="item-img">
+          <view class="iconfont icon-ai-connection font-16"></view>
+        </view>
+        <view class="c-333 font-14">商家管理</view>
+      </view>
+
+      <view class="item">
+        <view class="item-img">
+          <view class="iconfont icon-rencaizhongxin font-16"></view>
+        </view>
+        <view class="c-333 font-14">人才专属</view>
+      </view>
+
+      <view class="item">
+        <view class="item-img">
+          <view class="iconfont icon-lianjie font-16"></view>
+        </view>
+        <view class="c-333 font-14">我要推广</view>
+      </view>
+    </view>
+
+        <view class="list-item">
+      <view class="item">
+        <view class="item-img">
+          <view class="iconfont icon-shoucang1 font-16"></view>
+        </view>
+        <view class="c-333 font-14">我的收藏</view>
+      </view>
+
+      <view class="item">
+        <view class="item-img">
+          <view class="iconfont icon-xiaoxi1 font-16"></view>
+        </view>
+        <view class="c-333 font-14">消息列表</view>
+      </view>
+
+      <view class="item">
+        <view class="item-img">
+          <view class="iconfont icon-zhaoshanghezuo font-16"></view>
+        </view>
+        <view class="c-333 font-14">招商合作</view>
+      </view>
+    </view>
+
+        <view class="list-item">
+      <view class="item">
+        <view class="item-img">
+          <view class="iconfont icon-xiaoxi font-16"></view>
+        </view>
+        <view class="c-333 font-14">客服中心</view>
+      </view>
+
+      <view class="item">
+        <view class="item-img">
+          <view class="iconfont icon-iconhelp font-16"></view>
+        </view>
+        <view class="c-333 font-14">使用帮助</view>
+      </view>
+
+      <view class="item">
+        <view class="item-img">
+          <view class="iconfont icon-guanyuwomen font-16"></view>
+        </view>
+        <view class="c-333 font-14">关于我们</view>
+      </view>
+    </view>
+  </view>
+</view>

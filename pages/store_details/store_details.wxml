@@ -1,0 +1,36 @@
+<!--pages/store_details/store_details.wxml-->
+<import src="../template/foot/foot.wxml" />
+<view class="container">
+  <view class="user">
+    <view class="user-info">
+      <image src="../../image/img.jpeg"></image>
+      <view class="font-14">颠三倒四</view>
+      <view class="font-14 c-666">服务时间</view>
+    </view>
+  </view>
+  <view class="item clearfix">
+    <view class="title fl font-14">颠三倒四多所多所</view>
+    <text class="iconfont icon-weibiaoti- fr"></text>
+  </view>
+  <radio-group class="radio-group" bindchange="radioChange">
+    <label class="radio font-14" wx:for="{{items}}">
+      <radio value="{{item.name}}" checked="{{item.checked}}" />{{item.value}}
+      <text class="fr font-14">￥120</text>
+    </label>
+  </radio-group>
+  <view class="store-list">
+    <view class="store-li clearfix font-14">
+      <view class="fl">他的负担</view>
+      <view class="fr">120</view>
+    </view>
+    <view class="store-li clearfix font-14">
+      <view class="fl">他的负担</view>
+      <view class="fr">120</view>
+    </view>
+    <view class="store-li clearfix font-14">
+      <view class="fl">他的负担</view>
+      <view class="fr">120</view>
+    </view>
+  </view>
+  <template is="foot" />
+</view>

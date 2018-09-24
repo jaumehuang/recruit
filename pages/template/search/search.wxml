@@ -1,0 +1,10 @@
+<template name="search">
+  <view class="top">
+    <view class="location">
+      <text class="font-16">广州</text>
+    </view>
+    <view class="search-input">
+        <input type="search" class="search font-14 c-333" placeholder='请输入关键字输入'></input>
+    </view>
+  </view>
+</template>

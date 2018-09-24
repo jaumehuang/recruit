@@ -1,0 +1,57 @@
+<!--pages/appointment/appointment.wxml-->
+<import src="../template/search/search.wxml" />
+<view class="container">
+  <template is="search" />
+  <view class="main">
+    <view class="list">
+      <view class="list-li">
+        <view class='show-img'>
+          <image src='../../image/img.jpeg'></image>
+        </view>
+        <view class="mian-p">
+          <view class="clearfix font-14 ">
+            <view class="fl c-333 ellipsis-one">
+            辅导辅导辅导
+            </view>
+            <view class="fr c-666">个人</view>
+          </view>
+          <view class="clearfix font-14 ">
+            <view class="c-666 ">
+              服务时间
+            </view>
+            <view class="clearfix">
+              <view class="fl c-red">价格</view>
+              <view class="fr c-666">
+                  广州
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+       <view class="list-li">
+        <view class='show-img'>
+          <image src='../../image/img.jpeg'></image>
+        </view>
+        <view class="mian-p">
+          <view class="clearfix font-14 ">
+            <view class="fl c-333 ellipsis-one">
+            辅导辅导辅导
+            </view>
+            <view class="fr c-666">个人</view>
+          </view>
+          <view class="clearfix font-14 ">
+            <view class="c-666 ">
+              服务时间
+            </view>
+            <view class="clearfix">
+              <view class="fl c-red">价格</view>
+              <view class="fr c-666">
+                  广州
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

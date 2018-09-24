@@ -1,0 +1,17 @@
+<template name="foot">
+  <view class="foot">
+    <view class="item fl">
+      <view class="item-li">
+        <view class="iconfont icon-fenxiang"></view>
+        <view class="font-12">分享</view>
+      </view>
+      <view class="item-li ">
+        <view class="iconfont icon-shoucang1"></view>
+        <view class="font-12">收藏</view>
+      </view>
+    </view>
+    <view class="item font-14 fl">
+      <text>立即申请</text>
+    </view>
+  </view>
+</template>

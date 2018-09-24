@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<import src="../template/search/search.wxml"/>
+<import src="../template/list/list.wxml" />
+<view class="container">
+    <template is="search"/>
+    <view class="main">
+       <view class="title font-16 c-666">为你推荐的好职位</view>
+    </view>
+    <template is="list" />
+</view> 
+ 
