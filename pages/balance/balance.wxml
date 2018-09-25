@@ -1,0 +1,6 @@
+<!--pages/balance/balance.wxml-->
+<view class="container">
+  <view class="money c-333 font-16">账户余额</view>
+  <button class="btn font-16">余额充值</button>
+  <view class="warm c-333 font-14">余额体现</view>
+</view>

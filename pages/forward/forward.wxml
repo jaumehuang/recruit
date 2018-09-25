@@ -1,0 +1,23 @@
+<!--pages/forward/forward.wxml-->
+<view class="container">
+  <view class="main">
+    <view class="title clearfix font-14">
+      <view class="fl c-666">当前可提现金额：￥120</view>
+      <view class="fl all">全部提现</view>
+    </view>
+    <view class="title clearfix font-14">
+      <view class="fl ">提现金额最小额度为：￥120</view>
+    </view>
+    <view class="title">
+      <view class="clearfix">
+        <text class="font-16 fl">￥</text>
+        <input placeholder="请输入体现金额" class="fl font-14" ></input>
+      </view>
+    </view>
+     <view class="title clearfix font-14">
+      <view class="fl ">可提现方式</view>
+      <view class="fr ">提现到微信钱包</view>
+    </view>
+  </view>
+  <button class="btn">立即体现</button>
+</view>

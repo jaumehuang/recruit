@@ -8,7 +8,7 @@
       <view class="font-14 c-666">服务时间</view>
     </view>
   </view>
-  <view class="item clearfix">
+  <view class="location clearfix">
     <view class="title fl font-14">颠三倒四多所多所</view>
     <text class="iconfont icon-weibiaoti- fr"></text>
   </view>

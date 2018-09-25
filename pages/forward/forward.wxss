@@ -1,0 +1,21 @@
+/* pages/forward/forward.wxss */
+page {
+  background-color: #f2f2f2;
+}
+.main{
+  background-color:#fff;
+  margin-bottom:80rpx;
+}
+.main .title{
+  padding:24rpx 40rpx;
+  border-bottom:1rpx solid #f2f2f2;
+}
+.main .title .all{
+  padding-left:120rpx;
+}
+.main .title text{
+  font-size:40rpx;
+}
+.main .title input{
+  padding-left:24rpx;
+}

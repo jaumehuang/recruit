@@ -1,0 +1,13 @@
+/* pages/balance/balance.wxss */
+.money{
+  text-align: center;
+  margin-top:120rpx;
+}
+.container .btn{
+  margin-top:120rpx;
+}
+.warm{
+  text-align: center;
+  margin-top:40rpx;
+}
+

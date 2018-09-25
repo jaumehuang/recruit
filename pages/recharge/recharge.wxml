@@ -1,0 +1,7 @@
+<!--pages/recharge/recharge.wxml-->
+<view class="container">
+  <view class='input-in'>
+    <input class="font-16" placeholder='请输入充值金额'></input>
+  </view>
+  <button class="btn">立即充值</button>
+</view>

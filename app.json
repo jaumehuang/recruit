@@ -1,5 +1,10 @@
 {
   "pages": [
+
+    "pages/forwardlist/forwardlist",
+    "pages/forward/forward",
+    "pages/recharge/recharge",
+    "pages/balance/balance",
     "pages/store_details/store_details",
     "pages/details/details",
     "pages/mine/mine",

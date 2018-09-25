@@ -1,0 +1,34 @@
+/* pages/forwardlist/forwardlist.wxss */
+page {
+  background-color: #f2f2f2;
+}
+.top{
+    text-align:center;
+    background-color:#fff;
+    position: fixed;
+    left:0;
+    width:100%;
+    top:0;
+}
+.top .title{
+    padding:24rpx 0;
+    border-bottom:1rpx solid  #f2f2f2;
+}
+.top .nav-list{
+  display: flex;
+}
+.top .nav-list .nav-li{
+  flex: 1;
+  padding:24rpx 0;
+  text-align: center;
+}
+.record-list{
+  margin-top:200rpx;
+  background-color: #fff;
+}
+.record-list .record-li{
+  padding:12rpx  24rpx ;
+}
+.record-list .record-li .item-li{
+  padding-top:12rpx;
+}

@@ -1,0 +1,25 @@
+<!--pages/forwardlist/forwardlist.wxml-->
+<view class="container">
+  <view class="top">
+    <view class="title font-16">总提现金额：￥15220</view>
+    <view class="nav-list font-16">
+      <view class="nav-li">全部</view>
+      <view class="nav-li c-666">待审核</view>
+      <view class="nav-li c-666">待打款</view>
+      <view class="nav-li c-666">已打款</view>
+      <view class="nav-li c-666">无效</view>
+    </view>
+  </view>
+  <view class="record-list">
+    <view class="record-li">
+      <view class="item-title font-16">提现订单：120000</view>
+      <view class="item-li clearfix font-14 c-666">
+        <view class="fl">提现金额：￥120</view>
+        <view class="fr c-333">待打款</view>
+      </view>
+      <view class="item-li clearfix font-14 c-666">
+        提现时间：2012-12-12
+      </view>
+    </view>
+  </view>
+</view>
