@@ -1,0 +1,46 @@
+<!--pages/resume_detail/resume_detail.wxml-->
+<view class="resume_detail">
+  <view class="info border-bottom">
+    <image src="../../image/img.jpeg"></image>
+    <view class="main">
+      <view class="item c-666 font-14 ">
+        <text class="c-333">阿木</text>
+        <text>18</text>
+        <text>13143517383</text>
+      </view>
+      <view class="item c-333 font-14">
+        职位
+        <text>1111</text>
+      </view>
+    </view>
+  </view>
+  <view class=" bottom-list clearfix font-14 c-666">
+    <view class="bottom-li fl">广州</view>
+    <view class="bottom-li fl">广ssss州</view>
+    <view class="bottom-li fl">广州sads</view>
+  </view>
+  <view class="need-list font-14 c-666">
+    <view class="need-li">大苏打实打实的</view>
+    <view class="need-li">大苏打实打实的</view>
+    <view class="need-li">大苏打实打实的</view>
+  </view>
+  <view class="mian-work font-14 border-bottom">
+   <view class="title border-bottom font-14">工作经验</view>
+    <view class="work-li border-bottom">
+      <view class="item clearfix">
+        <view class="fl c-333">广州</view>
+        <view class="fr c-666">2018-12-14</view>
+      </view>
+      <view class="name c-666">店长</view>
+      <view class="main-t c-666">多岁的</view>
+    </view>
+     <view class="work-li border-bottom">
+      <view class="item clearfix">
+        <view class="fl c-333">广州</view>
+        <view class="fr c-666">2018-12-14</view>
+      </view>
+      <view class="name c-666">店长</view>
+      <view class="main-t c-666">多岁的</view>
+    </view>
+  </view>
+</view>

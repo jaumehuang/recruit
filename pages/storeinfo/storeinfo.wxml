@@ -1,0 +1,56 @@
+<!--pages/storeinfo/storeinfo.wxml-->
+<view class="store-info">
+  <view class="info-list">
+    <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">商家名称：</view>
+      <view class="iconfont icon-guanbi fr"></view>
+    </view>
+     <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">营业执照号码：</view>
+      <view class="iconfont icon-guanbi fr"></view>
+    </view>
+     <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">商家地址：</view>
+      <view class="iconfont icon-guanbi fr"></view>
+    </view>
+    <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">位置定位：</view>
+      <view class="iconfont icon-guanbi fr"></view>
+    </view>
+
+    <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">联系电话：</view>
+      <view class="iconfont icon-guanbi fr"></view>
+    </view>
+
+    <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">法人名称：</view>
+      <view class="iconfont icon-guanbi fr"></view>
+    </view>
+
+    <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">手机号码：</view>
+      <view class="iconfont icon-guanbi fr"></view>
+    </view>
+
+    <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">身份证号码：</view>
+      <view class="iconfont icon-guanbi fr"></view>
+    </view>
+
+     <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">手机号码：</view>
+      <view class="iconfont icon-guanbi fr"></view>
+    </view>
+
+     <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">身份证照片：</view>
+      <view class="iconfont = fl">相机图片</view>
+    </view>
+
+     <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">营业执照：</view>
+      <view class="iconfont  fl">相机图片</view>
+    </view>
+  </view>
+</view>

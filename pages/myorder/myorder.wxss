@@ -1,0 +1,41 @@
+/* pages/myorder/myorder.wxss */
+.top{
+    text-align:center;
+    background-color:#fff;
+    position: fixed;
+    left:0;
+    width:100%;
+    top:0;
+}
+page {
+  background-color: #f2f2f2;
+}
+.top .nav-list{
+  display: flex;
+}
+.top .nav-list .nav-li{
+  flex: 1;
+  padding:24rpx 0;
+  text-align: center;
+}
+.order-list{
+  margin-top:90rpx;
+}
+.order-list .order-li{
+  background:#ffffff;
+  margin-top:12rpx;
+}
+.order-list .order-li .order-main {
+  padding-bottom:12rpx;
+}
+.order-list .order-li .order-item{
+  padding: 8rpx 24rpx;
+}
+.main-bottom{
+  height:100rpx;
+  line-height: 100rpx;
+  padding: 0 24rpx;
+}
+.main-bottom .btn-group button{
+  margin-top:16rpx;
+}

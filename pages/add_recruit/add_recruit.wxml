@@ -1,0 +1,54 @@
+<!--pages/add_recruit/add_recruit.wxml-->
+<view class="add_recruit">
+  <view class="info-list">
+    <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">职位名称：</view>
+      <view class="fr c-666">
+        选择岗位名称
+        <text class="iconfont icon-guanbi "></text>
+      </view>
+    </view>
+    <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">岗位类型：</view>
+      <view class="fr c-666">
+        选择岗位名称
+        <text class="iconfont icon-guanbi "></text>
+      </view>
+    </view>
+     <view class="info-li clearfix font-14 ">
+      <view class="fl">岗位待遇：</view>
+      <view class="fr c-666">
+        选择待遇范围
+        <text class="iconfont icon-guanbi "></text>
+      </view>
+    </view>
+  </view>
+  <view class="info-list">
+    <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">岗位经验：</view>
+      <view class="fr c-666">
+        选择岗位经验
+        <text class="iconfont icon-guanbi "></text>
+      </view>
+    </view>
+    <view class="info-li clearfix font-14 border-bottom">
+      <view class="fl">学历要求：</view>
+      <view class="fr c-666">
+        选择学历要求
+        <text class="iconfont icon-guanbi "></text>
+      </view>
+    </view>
+  </view>
+  <view class="main">
+       <view class="title font-16 c-666">职位描述</view>
+    </view>
+  <view class="condition">
+    <view class="title font-14">岗位职责</view>
+    <textarea class="font-14" placeholder='输入岗位职责内容' ></textarea>
+  </view>
+  <view class="condition">
+    <view class="title font-14">任职要求</view>
+    <textarea class="font-14" placeholder='输入任职要求内容' ></textarea>
+  </view>
+  <button class="btn">立即保存</button>
+</view>

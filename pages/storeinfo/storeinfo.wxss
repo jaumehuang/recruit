@@ -1,0 +1,10 @@
+/* pages/storeinfo/storeinfo.wxss */
+page{
+  background-color:#F2F2F2;
+}
+.info-list{
+  background-color: #ffffff;
+}
+.info-list .info-li{
+  padding: 24rpx;
+}

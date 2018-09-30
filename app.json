@@ -1,6 +1,15 @@
 {
   "pages": [
 
+    "pages/resume_detail/resume_detail",
+    "pages/resume/resume",
+    "pages/add_recruit/add_recruit",
+    "pages/recruit/recruit",
+    "pages/set_store/set_store",
+    "pages/storeinfo/storeinfo",
+    "pages/store/store",
+    "pages/myorder/myorder",
+    "pages/order_details/order_details",
     "pages/forwardlist/forwardlist",
     "pages/forward/forward",
     "pages/recharge/recharge",

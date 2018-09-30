@@ -1,0 +1,13 @@
+<!--pages/resume/resume.wxml-->
+<view class="resume">
+  <view class="item font-14">
+    <view class="time c-666">2018</view>
+    <view class="clearfix main-p">
+      <view class="fl">申请职位：2188</view>
+      <view class="fr c-666">
+        详情
+        <text class="iconfont icon-guanbi"></text>
+      </view>
+    </view>
+  </view>
+</view>

@@ -77,3 +77,6 @@
   background-color:#F04844;
   color:#ffffff;
 }
+.border-bottom{
+  border-bottom:1rpx solid #F2F2F2;
+}

@@ -1,0 +1,13 @@
+<!--pages/recruit/recruit.wxml-->
+<view class="recruit">
+  <view class="list">
+    <view class="li clearfix font-14">
+      <view class="fl">美发师<text class="c-666">(招聘中)</text></view>
+      <view class="fr c-666">
+         详情
+         <text class="iconfont icon-guanbi"></text>
+      </view>
+    </view>
+  </view>
+  <button class="btn">添加招聘</button>
+</view>

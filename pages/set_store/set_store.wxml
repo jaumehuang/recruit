@@ -1,0 +1,7 @@
+<!--pages/set_store/set_store.wxml-->
+<view class="set">
+  <view class="input-p">
+    <input type='text' placeholder='请输入 对对对' class="font-14"></input>
+  </view>
+  <button class="btn">立即保存</button>
+</view>

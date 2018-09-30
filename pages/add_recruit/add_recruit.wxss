@@ -1,0 +1,57 @@
+/* pages/add_recruit/add_recruit.wxss */
+page{
+  background-color:#F2F2F2;
+}
+.add_recruit .info-list{
+  background-color: #ffffff;
+  margin-bottom:24rpx;
+}
+.add_recruit .info-list .info-li{
+  padding:24rpx;
+}
+.main {
+  background-color: #ffffff;
+}
+.main .title{
+  text-align: center;
+  padding:24rpx 0;
+  position: relative;
+}
+.main .title::before{
+  display: block;
+  content: "";
+  height:1rpx;
+  width:100rpx;
+  position: absolute;
+  left:100rpx;
+  top:44rpx;
+  background-color:#F2F2F2;
+}
+.main .title::after{
+  display: block;
+  content: "";
+  height:1rpx;
+  width:100rpx;
+  position: absolute;
+  right:100rpx;
+  top:44rpx;
+  background-color:#F2F2F2;
+}
+.condition{
+  background-color: #ffffff;
+  padding:0 24rpx;
+}
+.condition .title{
+  padding-bottom:24rpx;
+}
+textarea{
+  width:100%;
+}
+.add_recruit .btn{
+  position: fixed;
+  width:100%;
+  bottom:0;
+  left:0;
+  margin: 0;
+  border-radius: 0;
+}

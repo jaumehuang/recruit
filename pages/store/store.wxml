@@ -1,0 +1,48 @@
+<!--pages/store/store.wxml-->
+<view class="store">
+  <view class="store-list">
+    <view class="title c-666 font-16">求职管理</view>
+      <view class="clearfix item">
+        <view class="item-li fl">
+          <view class="iconfont icon-shangjia"></view>
+          <view class="font-14 name">商家信息</view>
+        </view>
+        <view class="item-li fl">
+          <view class="iconfont icon-rencaizhongxin"></view>
+          <view class="font-14 name">招聘人才</view>
+        </view>
+        <view class="item-li fl">
+          <view class="iconfont icon-wodejianli"></view>
+          <view class="font-14 name">收到简历</view>
+        </view>
+      </view>
+
+      <view class="title c-666 font-16">服务管理</view>
+      <view class="clearfix item">
+        <view class="item-li fl">
+          <view class="iconfont icon-renminbi"></view>
+          <view class="font-14 name">商家服务</view>
+        </view>
+        <view class="item-li fl">
+          <view class="iconfont icon-shoucang1"></view>
+          <view class="font-14 name">服务列表</view>
+        </view>
+        <view class="item-li fl">
+          <view class="iconfont icon-xiaoxi1"></view>
+          <view class="font-14 name">服务订单</view>
+        </view>
+      </view>
+
+      <view class="title c-666 font-16">其他工具</view>
+      <view class="clearfix item">
+        <view class="item-li fl">
+          <view class="iconfont icon-gongxiang"></view>
+          <view class="font-14 name">共享店铺</view>
+        </view>
+        <view class="item-li fl">
+          <view class="iconfont icon-ic_services"></view>
+          <view class="font-14 name">共享订单</view>
+        </view>
+      </view>
+  </view>
+</view>

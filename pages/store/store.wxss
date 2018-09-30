@@ -1,0 +1,45 @@
+/* pages/store/store.wxss */
+page {
+  background-color: #f2f2f2;
+}
+.store-list .title{
+  padding:8rpx 24rpx;
+}
+.store-list .item{
+  background-color: #ffffff;
+}
+.store-list .item .item-li{
+  width:25%;
+  padding:24rpx 0;
+  text-align: center;
+}
+.store-list .item .item-li .name{
+  padding-top:16rpx;
+}
+.store-list .item .iconfont{
+  font-size:52rpx;
+}
+.icon-shangjia{
+  color:#09A4F8;
+}
+.icon-rencaizhongxin{
+  color:#FDA700;
+}
+.icon-wodejianli{
+  color:#49B241;
+}
+.icon-renminbi{
+  color:#FF9900;
+}
+.icon-shoucang1{
+  color:#E60F00;
+}
+.icon-xiaoxi1{
+ color:#FF9900;
+}
+.icon-gongxiang{
+  color:#E60F00;
+}
+.icon-ic_services{
+  color:#0083BD;
+}

@@ -1,0 +1,27 @@
+/* pages/order_details/order_details.wxss */
+
+page {
+  background-color: #f2f2f2;
+}
+.container{
+  background-color:#ffffff;
+}
+.order-details .order-state, .order-li {
+  padding: 18rpx 24rpx;
+}
+
+.order-state .order-item {
+  margin-bottom: 12rpx;
+}
+
+.order-details .order-state, .order-li {
+  padding: 16rpx 24rpx;
+}
+
+.order-state .order-item {
+  margin-bottom: 12rpx;
+}
+
+.order-state .order-item:last-child {
+  margin-bottom: 0;
+}

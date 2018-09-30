@@ -1,0 +1,11 @@
+/* pages/resume/resume.wxss */
+page{
+  background-color:#F2F2F2;
+}
+.resume .item .time{
+  padding: 8rpx 24rpx;
+}
+.resume .main-p{
+  background-color: #ffffff;
+   padding:24rpx;
+}

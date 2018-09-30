@@ -1,0 +1,17 @@
+/* pages/recruit/recruit.wxss */
+page{
+  background-color:#F2F2F2;
+}
+.recruit .list{
+   background-color: #ffffff;
+}
+.recruit .list .li{
+  padding:24rpx;
+}
+.recruit button{
+  position: fixed;
+  bottom:0;
+  left:0;
+  right:40rpx;
+  width:90%;
+}
