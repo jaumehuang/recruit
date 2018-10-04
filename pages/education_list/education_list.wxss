@@ -1,0 +1,38 @@
+/* pages/work_list/work_list.wxss */
+page {
+  background-color: #f2f2f2;
+}
+.work_list {
+  background-color: #ffffff;
+}
+.work_list .work_li{
+    padding:24rpx;
+}
+.work_list .work_li .name{
+  height:1.4rem;
+  line-height: 1.4rem;
+}
+.work_list .work_li .time{
+  width:150rpx;
+}
+.work_list .work_li input{
+  text-align: center;
+}
+.work_list .work_li text{
+  padding:0 40rpx;
+  padding-top:8rpx;
+}
+ .title{
+  padding:24rpx;
+}
+textarea{
+  width:100%;
+  background-color: #ffffff;
+  padding:24rpx;
+}
+.foot{
+  position: fixed;
+  bottom:0;
+  left:0;
+  width:100%;
+}

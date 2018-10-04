@@ -1,0 +1,62 @@
+<!--pages/buy_service/buy_service.wxml-->
+<view class="server">
+  <view class="list">
+    <view class="list-li border-bottom clearfix font-14">
+      <view class="fl">求职职位：</view>
+      <view class="fr  ">
+        发型师
+        <text class='iconfont icon-guanbi'></text>
+      </view>
+    </view>
+    <view class="list-li border-bottom clearfix font-14">
+      <view class="fl">期望薪资：</view>
+      <view class="fr  ">
+        发型师
+        <text class='iconfont icon-guanbi'></text>
+      </view>
+    </view>
+  </view>
+  <view class="list">
+    <view class="list-li border-bottom clearfix font-14">
+      <view class="fl">工作经验：</view>
+      <view class="fr  ">
+        发型师
+        <text class='iconfont icon-guanbi'></text>
+      </view>
+    </view>
+    <view class="list-li border-bottom clearfix font-14">
+      <view class="fl">我的优势：</view>
+      <view class="fr  ">
+        发型师
+        <text class='iconfont icon-guanbi'></text>
+      </view>
+    </view>
+  </view>
+
+  <view class="list">
+    <view class="list-li border-bottom clearfix font-14">
+      <view class="fl name">广州家里</view>
+      <view class="fr c-666 ">
+        2018
+        <text class='iconfont icon-guanbi'></text>
+      </view>
+    </view>
+    <view class="list-li border-bottom clearfix font-14 add-list">
+      <view class='iconfont icon-guanbi'>工作经验</view>
+    </view>
+  </view>
+
+  <view class="list">
+    <view class="list-li border-bottom clearfix font-14">
+      <view class="fl name">广州家里</view>
+      <view class="fr c-666 ">
+        2018
+        <text class='iconfont icon-guanbi'></text>
+      </view>
+    </view>
+    <view class="list-li border-bottom clearfix font-14 add-list">
+      <view class='iconfont icon-guanbi'>教育经验</view>
+    </view>
+  </view>
+  <button class=" btn ">立即支付</button>
+</view>

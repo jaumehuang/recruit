@@ -1,0 +1,33 @@
+/* pages/extension/extension.wxss */
+page {
+  background-color: #f2f2f2;
+}
+.extension{
+}
+.nav-list{
+  background-color: #ffffff;
+  display:flex;
+}
+.nav-list .nav-li{
+  flex: 1;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+}
+.nav-list .nav-li:last-child{
+  border-left:1rpx solid #f2f2f2;
+}
+.main{
+  margin-top:24rpx;
+  background-color: #ffffff;
+  padding-bottom:120rpx;
+}
+.main .title{
+  text-align: center;
+  padding:120rpx 0;
+}
+.code{
+  text-align: center;
+  padding-top:40rpx;
+  text-decoration:underline;
+}

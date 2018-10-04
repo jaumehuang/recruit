@@ -1,6 +1,17 @@
 {
   "pages": [
-
+    "pages/help/help",
+    "pages/server/server",
+    "pages/new_list/new_list",
+    "pages/extension_list/extension_list",
+    "pages/extension/extension",
+    "pages/my_advantage/my_advantage",
+    "pages/work_list/work_list",
+    "pages/my_resume/my_resume",
+    "pages/share_list/share_list",
+    "pages/server_list/server_list",
+    "pages/buy_service/buy_service",
+    "pages/business_service/business_service",
     "pages/resume_detail/resume_detail",
     "pages/resume/resume",
     "pages/add_recruit/add_recruit",
@@ -19,7 +30,8 @@
     "pages/mine/mine",
     "pages/appointment/appointment",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/education_list/education_list"
     
   ],
   "window": {

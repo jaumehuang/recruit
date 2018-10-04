@@ -1,0 +1,17 @@
+/* pages/new_list/new_list.wxss */
+page {
+  background-color: #f2f2f2;
+}
+.new-list .new-li{
+  padding:24rpx;
+  background-color: #ffffff;
+  position:relative;
+}
+.new-list .time{
+  margin-top:8rpx;
+}
+.icon-guanbi{
+  position:absolute;
+  right:24rpx;
+  top:48rpx;
+}

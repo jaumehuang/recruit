@@ -1,0 +1,13 @@
+<!--pages/extension/extension.wxml-->
+<view class="extension">
+  <view class="banner">轮播</view>
+  <view class="nav-list font-16">
+     <view class="nav-li">推广明细</view>
+     <view class="nav-li">活动规则</view>
+  </view>
+  <view class="main font-16">
+    <view class="title">推广金额：￥120</view>
+    <button class="btn">立即分享</button>
+    <view class="font-14 c-666 code">我的二维码</view>
+  </view>
+</view>

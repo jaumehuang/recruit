@@ -1,0 +1,31 @@
+<!--pages/work_list/work_list.wxml-->
+<view class="work_list">
+  <view class="work_li font-14 clearfix border-bottom">
+    <view class="fl name">学校名称：</view>
+    <view class="fl">
+      <input placeholder='请输入你的学校名称'></input>
+    </view>
+  </view>
+
+   <view class="work_li font-14 clearfix  border-bottom">
+    <view class="fl name">专业名称：</view>
+    <view class="fl">
+      <input placeholder='请输入你的专业名称'></input>
+    </view>
+  </view>
+  <view class="work_li font-14 clearfix">
+    <view class="fl name">时间段：</view>
+    <view class="fl">
+      <input placeholder='请选择' class='fl time'></input>
+      <text class='fl'>至</text>
+      <input placeholder='请选择' class='fl time'></input>
+    </view>
+  </view>
+</view>
+<view class="title c-666 font-16">工作内容</view>
+<textarea placeholder='输入教育经验' class="font-14"></textarea>
+<view class="foot">
+  <button class="btn">立即保存</button>
+</view>
+
+

@@ -1,0 +1,8 @@
+<!--pages/new_list/new_list.wxml-->
+<view class="new-list">
+  <view class="new-li font-14 border-bottom">
+    <view class="title">颠三倒四多</view>
+    <view class="time c-666">2018</view>
+    <text class="iconfont icon-guanbi"></text>
+  </view>
+</view>

@@ -1,0 +1,26 @@
+<!--pages/business_service/business_service.wxml-->
+<view class="server">
+    <view class="list">
+      <view class="list-li border-bottom clearfix font-14">
+        <view class="fl">单价</view>
+        <view class="fr ">
+          ￥120
+          <text class="iconfont icon-guanbi "></text>
+        </view>
+      </view>
+      <view class="list-li border-bottom clearfix font-14">
+        <view class="fl">洗吹</view>
+        <view class="fr ">
+          ￥120
+          <text class="iconfont icon-guanbi "></text>
+        </view>
+      </view>
+      <view class="list-li border-bottom clearfix font-14">
+        <view class="fl">洗剪吹</view>
+        <view class="fr ">
+          ￥120
+          <text class="iconfont icon-guanbi "></text>
+        </view>
+      </view>
+    </view>
+</view>

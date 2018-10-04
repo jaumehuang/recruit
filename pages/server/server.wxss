@@ -1,0 +1,10 @@
+/* pages/server/server.wxss */
+page {
+  background-color: #f2f2f2;
+}
+.server-list{
+ background-color: #ffffffff;
+}
+.server-list .server-li{
+  padding:24rpx;
+}

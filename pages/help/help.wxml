@@ -1,0 +1,12 @@
+<!--pages/help/help.wxml-->
+<view class="help">
+  <view class="search-input border-bottom">
+    <input class="font-14" placeholder='请输入关键字搜索'></input>
+  </view>
+  <view class="help-list">
+    <view class="help-li clearfix font-14 border-bottom">
+      <view class="fl">个人开发大苏打</view>
+      <view class="fr iconfont icon-guanbi"></view>
+    </view>
+  </view>
+</view>

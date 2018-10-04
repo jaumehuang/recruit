@@ -1,0 +1,25 @@
+/* pages/business_service/business_service.wxss */
+page {
+  background-color: #f2f2f2;
+}
+.server .list{
+  background-color: #ffffff;
+  margin-bottom:12rpx;
+}
+.server .list .list-li{
+  padding:24rpx;
+}
+.server .list .list-li .state{
+  line-height: 62rpx;
+}
+.server .list .list-li .state{
+  line-height: 62rpx;
+}
+.server .list .list-li .btn-tool{
+  padding:4rpx 8rpx;
+  background-color:#0FCE96;
+  color:#ffffff;
+}
+.explain{
+  padding:12rpx 24rpx;
+}

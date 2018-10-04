@@ -1,0 +1,35 @@
+<!--pages/buy_service/buy_service.wxml-->
+<view class="server">
+  <view class="list">
+    <view class="list-li border-bottom clearfix font-14">
+      <view class="fl">商家名称：</view>
+      <view class="fr  ">
+        个人服务
+        <text class='iconfont icon-guanbi'></text>
+      </view>
+    </view>
+    <view class="list-li border-bottom clearfix font-14">
+      <view class="fl">购买周期：</view>
+      <view class="fr">
+        <input class="fl" type='number' value='2'></input>
+        <text class="fl year">年</text>
+      </view>
+    </view>
+    <view class="list-li border-bottom clearfix font-14">
+      <view class="fl">服务金额：</view>
+      <view class="fr  ">
+        300元
+        <text class='iconfont icon-guanbi'></text>
+      </view>
+    </view>
+
+     <view class="list-li border-bottom clearfix font-14">
+        <view class="fl">支付方式：</view>
+        <view class="fr  ">
+          微信
+          <text class='iconfont icon-guanbi'></text>
+        </view>
+      </view>
+  </view>
+  <button class="btn">立即支付</button>
+</view>

@@ -1,0 +1,28 @@
+/* pages/help/help.wxss */
+page {
+  background-color: #f2f2f2;
+}
+.help-list{
+  background-color: #ffffff;
+  margin-top: 120rpx;
+}
+.help-list .help-li{
+  padding: 24rpx;
+  background-color:#ffffff;
+}
+.search-input {
+  padding:24rpx;
+  background-color: #ffffff;
+  position: fixed;
+  right:0;
+  left:0;
+  top:0;
+}
+.search-input input{
+  background-color: #F2F2F2;
+  border-radius: 40rpx;
+  height:80rpx;
+  line-height: 80rpx;
+  padding:0 24rpx;
+  text-align: center;
+}

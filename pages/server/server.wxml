@@ -1,0 +1,11 @@
+<!--pages/server/server.wxml-->
+<view class="server-list">
+  <view class="server-li font-14 clearfix border-bottom">
+    <view  class="fl">在线客服</view>
+    <view class="iconfont icon-guanbi fr"></view>
+  </view>
+   <view class="server-li font-14 clearfix border-bottom">
+    <view  class="fl">客服热线</view>
+    <view class="iconfont icon-guanbi fr"></view>
+  </view>
+</view>

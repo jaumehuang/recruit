@@ -1,0 +1,28 @@
+<!--pages/extension_list/extension_list.wxml-->
+<view class="extension">
+  <view class="title font-16">推广人数：100人</view>
+  <view class="list">
+      <view class="list-li border-bottom font-14 clearfix">
+        <image src="../../image/img.jpeg" class="fl"></image>
+        <view class="contant fl">
+           <text class="name">订单</text>
+           <text class="time c-666">2018-15</text>
+        </view>
+         <view class="fr next">
+              未使用
+             <text class="iconfont icon-guanbi"></text>
+           </view>
+      </view>
+       <view class="list-li border-bottom font-14 clearfix">
+        <image src="../../image/img.jpeg" class="fl"></image>
+        <view class="contant fl">
+           <text class="name">订单</text>
+           <text class="time c-666">2018-15</text>
+        </view>
+         <view class="fr next">
+              未使用
+             <text class="iconfont icon-guanbi"></text>
+           </view>
+      </view>
+  </view>
+</view>

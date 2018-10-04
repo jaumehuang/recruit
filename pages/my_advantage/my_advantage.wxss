@@ -1,0 +1,18 @@
+/* pages/my_advantage/my_advantage.wxss */
+page {
+  background-color: #f2f2f2;
+}
+.advantage .title{
+  padding:24rpx;
+}
+textarea{
+  width:100%;
+  background-color: #ffffff;
+  padding:24rpx;
+}
+.foot{
+ position:fixed;
+ left:0;
+ width:100%;
+ bottom: 0;
+}

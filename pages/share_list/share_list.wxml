@@ -1,0 +1,31 @@
+<!--pages/business_service/business_service.wxml-->
+<view class="server">
+     <view class="list">
+      <view class="list-li border-bottom clearfix font-14">
+        <view class="fl state">服务状态：</view>
+        <view class="fr ">
+          <switch checked bindchange="switch1Change" color="#FF9900"/>
+        </view>
+      </view>
+       <view class="list-li border-bottom clearfix font-14">
+        <view class="fl">共享费用</view>
+        <view class="fr ">
+          50%
+          <text class="iconfont icon-guanbi "></text>
+        </view>
+      </view>
+       <view class="list-li border-bottom clearfix font-14">
+        <view class="fl">服务时间：0508</view>
+        <view class="fr ">
+          <view class="btn-tool">设置</view>
+        </view>
+      </view>
+       <view class="list-li border-bottom clearfix font-14">
+        <view class="fl">服务截止：0508</view>
+        <view class="fr ">
+          <view class="btn-tool">续费</view>
+        </view>
+      </view>
+    </view>
+    <view class="font-14 explain">店铺共享说明书</view>
+</view>
